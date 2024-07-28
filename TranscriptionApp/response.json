@@ -1,0 +1,429 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "4269ec70-f24b-4f1d-a722-97d8af2c1d99",
+    "sha256": "af76f42d6350993d1d5e157ec59d41e3fc88f9b6f5a13b493b552499e30f1506",
+    "created": "2024-07-04T10:15:35.129Z",
+    "duration": 15.882438,
+    "channels": 1,
+    "models": [
+      "30089e05-99d1-4376-b32e-c263170674af"
+    ],
+    "model_info": {
+      "30089e05-99d1-4376-b32e-c263170674af": {
+        "name": "2-general-nova",
+        "version": "2024-01-09.29447",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Hey there. Hello. This is just an example to show you how the app works. You can see that I mean, it's highlighting the word that I'm speaking. This is just an example. There are so many other features in the app. Looking for your feedback. Thank you.",
+            "confidence": 0.99961674,
+            "words": [
+              {
+                "word": "hey",
+                "start": 0.24,
+                "end": 0.39999998,
+                "confidence": 0.97580075,
+                "punctuated_word": "Hey"
+              },
+              {
+                "word": "there",
+                "start": 0.39999998,
+                "end": 0.64,
+                "confidence": 0.90846956,
+                "punctuated_word": "there."
+              },
+              {
+                "word": "hello",
+                "start": 0.64,
+                "end": 1.12,
+                "confidence": 0.99915236,
+                "punctuated_word": "Hello."
+              },
+              {
+                "word": "this",
+                "start": 1.12,
+                "end": 1.36,
+                "confidence": 0.99961674,
+                "punctuated_word": "This"
+              },
+              {
+                "word": "is",
+                "start": 1.36,
+                "end": 1.52,
+                "confidence": 0.9999211,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "just",
+                "start": 1.52,
+                "end": 1.68,
+                "confidence": 0.99980634,
+                "punctuated_word": "just"
+              },
+              {
+                "word": "an",
+                "start": 1.68,
+                "end": 1.8399999,
+                "confidence": 0.9999027,
+                "punctuated_word": "an"
+              },
+              {
+                "word": "example",
+                "start": 1.8399999,
+                "end": 2.32,
+                "confidence": 0.99989533,
+                "punctuated_word": "example"
+              },
+              {
+                "word": "to",
+                "start": 2.32,
+                "end": 2.48,
+                "confidence": 0.9986327,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "show",
+                "start": 2.48,
+                "end": 2.6399999,
+                "confidence": 0.99972266,
+                "punctuated_word": "show"
+              },
+              {
+                "word": "you",
+                "start": 2.6399999,
+                "end": 2.8799999,
+                "confidence": 0.9997788,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "how",
+                "start": 2.8799999,
+                "end": 3.12,
+                "confidence": 0.9999062,
+                "punctuated_word": "how"
+              },
+              {
+                "word": "the",
+                "start": 3.12,
+                "end": 3.28,
+                "confidence": 0.9998802,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "app",
+                "start": 3.28,
+                "end": 3.52,
+                "confidence": 0.9998466,
+                "punctuated_word": "app"
+              },
+              {
+                "word": "works",
+                "start": 3.52,
+                "end": 4.02,
+                "confidence": 0.9959134,
+                "punctuated_word": "works."
+              },
+              {
+                "word": "you",
+                "start": 4.64,
+                "end": 4.7999997,
+                "confidence": 0.98985183,
+                "punctuated_word": "You"
+              },
+              {
+                "word": "can",
+                "start": 4.7999997,
+                "end": 4.96,
+                "confidence": 0.9999521,
+                "punctuated_word": "can"
+              },
+              {
+                "word": "see",
+                "start": 4.96,
+                "end": 5.12,
+                "confidence": 0.9996784,
+                "punctuated_word": "see"
+              },
+              {
+                "word": "that",
+                "start": 5.12,
+                "end": 5.44,
+                "confidence": 0.99995375,
+                "punctuated_word": "that"
+              },
+              {
+                "word": "i",
+                "start": 5.52,
+                "end": 5.6,
+                "confidence": 0.9989512,
+                "punctuated_word": "I"
+              },
+              {
+                "word": "mean",
+                "start": 5.6,
+                "end": 5.92,
+                "confidence": 0.9801569,
+                "punctuated_word": "mean,"
+              },
+              {
+                "word": "it's",
+                "start": 5.92,
+                "end": 6.42,
+                "confidence": 0.9990597,
+                "punctuated_word": "it's"
+              },
+              {
+                "word": "highlighting",
+                "start": 6.48,
+                "end": 6.96,
+                "confidence": 0.99929535,
+                "punctuated_word": "highlighting"
+              },
+              {
+                "word": "the",
+                "start": 6.96,
+                "end": 7.04,
+                "confidence": 0.999892,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "word",
+                "start": 7.04,
+                "end": 7.2799997,
+                "confidence": 0.9989009,
+                "punctuated_word": "word"
+              },
+              {
+                "word": "that",
+                "start": 7.2799997,
+                "end": 7.52,
+                "confidence": 0.9998938,
+                "punctuated_word": "that"
+              },
+              {
+                "word": "i'm",
+                "start": 7.52,
+                "end": 7.68,
+                "confidence": 0.9968726,
+                "punctuated_word": "I'm"
+              },
+              {
+                "word": "speaking",
+                "start": 7.68,
+                "end": 8.18,
+                "confidence": 0.9949625,
+                "punctuated_word": "speaking."
+              },
+              {
+                "word": "this",
+                "start": 8.355,
+                "end": 8.594999,
+                "confidence": 0.99977845,
+                "punctuated_word": "This"
+              },
+              {
+                "word": "is",
+                "start": 8.594999,
+                "end": 8.754999,
+                "confidence": 0.99983037,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "just",
+                "start": 8.754999,
+                "end": 8.995,
+                "confidence": 0.9998349,
+                "punctuated_word": "just"
+              },
+              {
+                "word": "an",
+                "start": 8.995,
+                "end": 9.235,
+                "confidence": 0.999801,
+                "punctuated_word": "an"
+              },
+              {
+                "word": "example",
+                "start": 9.235,
+                "end": 9.735,
+                "confidence": 0.96656156,
+                "punctuated_word": "example."
+              },
+              {
+                "word": "there",
+                "start": 9.795,
+                "end": 10.035,
+                "confidence": 0.99970967,
+                "punctuated_word": "There"
+              },
+              {
+                "word": "are",
+                "start": 10.035,
+                "end": 10.195,
+                "confidence": 0.9997596,
+                "punctuated_word": "are"
+              },
+              {
+                "word": "so",
+                "start": 10.195,
+                "end": 10.355,
+                "confidence": 0.999137,
+                "punctuated_word": "so"
+              },
+              {
+                "word": "many",
+                "start": 10.355,
+                "end": 10.674999,
+                "confidence": 0.99993145,
+                "punctuated_word": "many"
+              },
+              {
+                "word": "other",
+                "start": 10.674999,
+                "end": 10.914999,
+                "confidence": 0.9995104,
+                "punctuated_word": "other"
+              },
+              {
+                "word": "features",
+                "start": 10.914999,
+                "end": 11.235,
+                "confidence": 0.99990857,
+                "punctuated_word": "features"
+              },
+              {
+                "word": "in",
+                "start": 11.235,
+                "end": 11.3949995,
+                "confidence": 0.9997899,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "the",
+                "start": 11.3949995,
+                "end": 11.554999,
+                "confidence": 0.99984336,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "app",
+                "start": 11.554999,
+                "end": 12.054999,
+                "confidence": 0.99841607,
+                "punctuated_word": "app."
+              },
+              {
+                "word": "looking",
+                "start": 12.115,
+                "end": 12.434999,
+                "confidence": 0.99844956,
+                "punctuated_word": "Looking"
+              },
+              {
+                "word": "for",
+                "start": 12.434999,
+                "end": 12.594999,
+                "confidence": 0.9731882,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "your",
+                "start": 12.594999,
+                "end": 12.834999,
+                "confidence": 0.99910563,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "feedback",
+                "start": 12.834999,
+                "end": 13.334999,
+                "confidence": 0.7773267,
+                "punctuated_word": "feedback."
+              },
+              {
+                "word": "thank",
+                "start": 14.035,
+                "end": 14.355,
+                "confidence": 0.9968364,
+                "punctuated_word": "Thank"
+              },
+              {
+                "word": "you",
+                "start": 14.355,
+                "end": 14.855,
+                "confidence": 0.9981744,
+                "punctuated_word": "you."
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nHey there. Hello. This is just an example to show you how the app works. You can see that I mean, it's highlighting the word that I'm speaking. This is just an example.\n\nThere are so many other features in the app. Looking for your feedback. Thank you.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Hey there.",
+                      "start": 0.24,
+                      "end": 0.64
+                    },
+                    {
+                      "text": "Hello.",
+                      "start": 0.64,
+                      "end": 1.12
+                    },
+                    {
+                      "text": "This is just an example to show you how the app works.",
+                      "start": 1.12,
+                      "end": 4.02
+                    },
+                    {
+                      "text": "You can see that I mean, it's highlighting the word that I'm speaking.",
+                      "start": 4.64,
+                      "end": 8.18
+                    },
+                    {
+                      "text": "This is just an example.",
+                      "start": 8.355,
+                      "end": 9.735
+                    }
+                  ],
+                  "num_words": 33,
+                  "start": 0.24,
+                  "end": 9.735
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "There are so many other features in the app.",
+                      "start": 9.795,
+                      "end": 12.054999
+                    },
+                    {
+                      "text": "Looking for your feedback.",
+                      "start": 12.115,
+                      "end": 13.334999
+                    },
+                    {
+                      "text": "Thank you.",
+                      "start": 14.035,
+                      "end": 14.855
+                    }
+                  ],
+                  "num_words": 15,
+                  "start": 9.795,
+                  "end": 14.855
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
